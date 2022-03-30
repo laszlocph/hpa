@@ -1,0 +1,4 @@
+prometheus:
+  url: http://prometheus-stack-kube-prom-prometheus.default
+  port: 9090
+  path: ""
